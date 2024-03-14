@@ -2638,8 +2638,9 @@ button:disabled,
 	display: -webkit-flex;
 	display: -ms-flex;
 	display: flex;
-	postiion: relative;
+	position: relative;
 	margin: -2.5em 0 0 -2.5em;
+	padding-top: 25px;
 }
 
 .tiles article {
